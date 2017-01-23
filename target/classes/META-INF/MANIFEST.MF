@@ -1,5 +1,11 @@
 Manifest-Version: 1.0
+Implementation-Title: JMS-Queue-Topic
+Implementation-Version: 0.1.0
 Built-By: bushan
+Implementation-Vendor-Id: io.bush.jms
 Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/JMS-Queue-To
+ pic/
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
